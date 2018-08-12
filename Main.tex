@@ -1,0 +1,30 @@
+\documentclass[12pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\graphicspath{ {images/} }
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage[c4paper,width=150mm, top=25mm, bottom=25mm,bindingoffset=6mm]{geometry}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{url}
+%\def\@biblabel#1{}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\renewcommand{\bibname}{References}
+%\title{{reportTitle}\\}
+\author{Kyi Thar Ko}
+\date{2018 August 12}
+
+\begin{document}
+\input{titlePage}
+\input{knowledge}
+\input{interestedParts}
+\input{comments}
+\input{difficultToUnderstand}
+\input{otherComments}
+\bibliography{refforIEECS}
+\bibliographystyle{plain}
+
+\end{document}
+
