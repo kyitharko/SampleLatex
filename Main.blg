@@ -1,51 +1,48 @@
-This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: IEE_CS_Space_Environments_Main.aux
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Main.aux
 The style file: plain.bst
 Database file #1: refforIEECS.bib
-Warning--entry type for "www.thefreedictionary.com2018" isn't style-file defined
---line 11 of file refforIEECS.bib
-Warning--entry type for "magEarth" isn't style-file defined
---line 20 of file refforIEECS.bib
-You've used 3 entries,
+Warning--empty booktitle in lecture
+You've used 1 entry,
             2118 wiz_defined-function locations,
-            509 strings with 4252 characters,
-and the built_in function-call counts, 611 in all, are:
-= -- 51
-> -- 21
+            501 strings with 4063 characters,
+and the built_in function-call counts, 248 in all, are:
+= -- 19
+> -- 7
 < -- 0
-+ -- 9
-- -- 6
-* -- 20
-:= -- 105
-add.period$ -- 6
-call.type$ -- 3
-change.case$ -- 12
++ -- 3
+- -- 2
+* -- 10
+:= -- 47
+add.period$ -- 3
+call.type$ -- 1
+change.case$ -- 4
 chr.to.int$ -- 0
-cite$ -- 3
-duplicate$ -- 21
-empty$ -- 67
-format.name$ -- 6
-if$ -- 130
+cite$ -- 2
+duplicate$ -- 13
+empty$ -- 27
+format.name$ -- 2
+if$ -- 50
 int.to.chr$ -- 0
-int.to.str$ -- 3
-missing$ -- 0
-newline$ -- 15
-num.names$ -- 6
-pop$ -- 27
+int.to.str$ -- 1
+missing$ -- 1
+newline$ -- 8
+num.names$ -- 2
+pop$ -- 9
 preamble$ -- 1
-purify$ -- 9
+purify$ -- 3
 quote$ -- 0
-skip$ -- 24
+skip$ -- 7
 stack$ -- 0
-substring$ -- 15
-swap$ -- 3
+substring$ -- 5
+swap$ -- 1
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 12
-warning$ -- 0
-while$ -- 6
-width$ -- 4
-write$ -- 26
-(There were 2 warnings)
+type$ -- 4
+warning$ -- 1
+while$ -- 2
+width$ -- 2
+write$ -- 11
+(There was 1 warning)
